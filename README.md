@@ -76,5 +76,5 @@ Then i save result to [assets/github.gif](assets/github.gif)
 <p align="left">
 <a href="https://linkedin.com/in/savioramos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="savioramos" height="30" width="40" /></a>
 <a href="https://kaggle.com/savioraamos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="savioraamos" height="30" width="40" /></a>
-<a href="https://instagram.com/imsavioo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="savio.ramos7" height="30" width="40" /></a>
+<a href="https://instagram.com/savio.ramos7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="savio.ramos7" height="30" width="40" /></a>
 </p>
