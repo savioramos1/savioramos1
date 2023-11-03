@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://github.com/savioramos1/savioramos1/blob/main/assets/ezgif.com-gif-maker.gif" alt="Hi, I'm Sávio">
+  <img src="https://github.com/savioramos1/savioramos1/blob/main/assets/gifprofilegit.gif" alt="Olá, Eu sou o Sávio">
 </p>
-
 
 
 
@@ -17,19 +16,19 @@ Then i save result to [assets/github.gif](assets/github.gif)
 
 
 
-- 🔥 I'm an Electrical Engineer in the data world
+- 🔥 Eu sou um Engenheiro Eletricista especializado em **Ciência de Dados**
 
-- 🌱 I’m currently learning **about Data Science**
+- 🌱 Atualmente estou aprofundando meus conhecimentos na área de **Dados**
 
-- 👨‍💻 All of my projects are available at [Project Portfolio](https://github.com/savioramos1/Portfolio_DataScience)
+- 👨‍💻 Todos os meus projetos estão disponível em [Project Portfolio](https://github.com/savioramos1/Portfolio_DataScience)
 
-- 💬 Ask me about **technology, data science, AI and career**
+- 💬 Me pergunte sobre **tecnologia, ciência de dados, carreira e etc - ficarei feliz em ajudar** 
 
-- 📫 How to reach me [E-mail](savioramos3459@gmail.com)
+- 📫 Fale comigo em [E-mail](savioramos3459@gmail.com)
 
-- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/savioramos/)
+- 📄 Saiba mais sobre mim em [LinkedIn](https://www.linkedin.com/in/savioramos/)
 
-- ⚡ Fun fact **I love Python**
+- ⚡ Curiosidade sobre mim: **Gosto muito de jogos eletrônicos🎮 e futebol⚽**
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -53,6 +52,23 @@ Then i save result to [assets/github.gif](assets/github.gif)
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=savioramos1&" alt="savioramos1" /></p>
+
+
+- 🔥  I'm an Electrical Engineer in the data world
+
+- 🌱 I’m currently learning **about Data Science**
+
+- 👨‍💻 All of my projects are available at [Project Portfolio](https://github.com/savioramos1/Portfolio_DataScience)
+
+- 💬 Ask me about **technology, data science, AI and career**
+
+- 📫 How to reach me [E-mail](savioramos3459@gmail.com)
+
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/savioramos/)
+
+- ⚡ Fun fact **I love Python**
+
+
 
 -->
 
