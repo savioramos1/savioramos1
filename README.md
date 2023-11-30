@@ -16,11 +16,11 @@ Then i save result to [assets/github.gif](assets/github.gif)
 
 
 
-- 🔥 Eu sou um Engenheiro Eletricista especializado em **Ciência de Dados**
+- 🔥 Eu sou Engenheiro Eletricista especializado em **Ciência de Dados**
 
 - 🌱 Atualmente estou aprofundando meus conhecimentos na área de **Dados**
 
-- 👨‍💻 Todos os meus projetos estão disponível em [Project Portfolio](https://github.com/savioramos1/Portfolio_DataScience)
+- 👨‍💻 Todos os meus projetos estão disponíveis em [Project Portfolio](https://github.com/savioramos1/Portfolio_DataScience)
 
 - 💬 Me pergunte sobre **tecnologia, ciência de dados, carreira e etc - ficarei feliz em ajudar** 
 
